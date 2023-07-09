@@ -1,2 +1,3 @@
 # Wikidata_SPARQLWrapper_Playground
-To play around with the fantastic @DenialOfIntelligence
+
+@DenialOfIntelligence Der Wikidata Query Service erzeugt eigene Codes für SPARQL-Wrapper, die besser funktionieren! 
