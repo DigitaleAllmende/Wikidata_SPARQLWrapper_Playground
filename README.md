@@ -2,4 +2,4 @@
 
 @DenialOfIntelligence Der Wikidata Query Service erzeugt eigene Codes für SPARQL-Wrapper 
 
--> GeoQuery Wikidata Query Service & pandas
+-> Wikidata Query Service & pandas .ipynb
